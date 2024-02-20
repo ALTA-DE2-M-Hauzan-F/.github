@@ -10,8 +10,8 @@
 - [Basic-Programming-Part6](https://github.com/ALTA-DE2-M-Hauzan-F/Basic-Programming-Part6)
   
 📘 Algorithm and Data Structure
-- Algo-DS-Part1
-- Algo-DS-Part2
+- [Algo-DS-Part1](https://github.com/ALTA-DE2-M-Hauzan-F/Algo-DS-Part1)
+- [Algo-DS-Part2](https://github.com/ALTA-DE2-M-Hauzan-F/Algo-DS-Part2)
   
 📗 Object Oriented Programming
 - Object-Oriented-Programming
