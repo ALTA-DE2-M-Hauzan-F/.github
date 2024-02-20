@@ -1,12 +1,34 @@
-## Hi there 👋
+📓 SQL/Relational Database
+<a href="https://github.com/ALTA-DE2-M-Hauzan-F> My Link </a>
+SQL-Relational-Database
+📔 Basic Programming
 
-<!--
+Basic-Programming-Part1
+Basic-Programming-Part2
+Basic-Programming-Part3
+Basic-Programming-Part4
+Basic-Programming-Part5
+Basic-Programming-Part6
+📘 Algorithm and Data Structure
 
-**Here are some ideas to get you started:**
+Algo-DS-Part1
+Algo-DS-Part2
+📗 Object Oriented Programming
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Object-Oriented-Programming
+📙 RESTful API
+
+Intro-To-REST
+📙 Docker
+
+Docker
+📙 Fundamental DE
+
+Fundamental-DE
+📙 Datawarehouse
+
+Datawarehouse
+📙 Data Ingestion
+
+Data Ingestion
+
