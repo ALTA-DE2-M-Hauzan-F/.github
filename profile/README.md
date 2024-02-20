@@ -1,6 +1,7 @@
 📓 SQL/Relational Database
-[ReadMe](https://github.com/ALTA-DE2-M-Hauzan-F)
-SQL-Relational-Database
+
+- [SQL-Relational-Database](https://github.com/ALTA-DE2-M-Hauzan-F/SQL-Relational-Database)
+
 📔 Basic Programming
 
 Basic-Programming-Part1
