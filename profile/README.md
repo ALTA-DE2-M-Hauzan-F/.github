@@ -2,12 +2,12 @@
 - [SQL-Relational-Database](https://github.com/ALTA-DE2-M-Hauzan-F/SQL-Relational-Database)
 
 📔 Basic Programming
-- Basic-Programming-Part1
-- Basic-Programming-Part2
-- Basic-Programming-Part3
-- Basic-Programming-Part4
-- Basic-Programming-Part5
-- Basic-Programming-Part6
+- [Basic-Programming-Part1](https://github.com/ALTA-DE2-M-Hauzan-F/Basic-Programming-Part1)
+- [Basic-Programming-Part2](https://github.com/ALTA-DE2-M-Hauzan-F/Basic-Programming-Part2)
+- [Basic-Programming-Part3](https://github.com/ALTA-DE2-M-Hauzan-F/Basic-Programming-Part3)
+- [Basic-Programming-Part4](https://github.com/ALTA-DE2-M-Hauzan-F/Basic-Programming-Part4)
+- [Basic-Programming-Part5](https://github.com/ALTA-DE2-M-Hauzan-F/Basic-Programming-Part5)
+- [Basic-Programming-Part6](https://github.com/ALTA-DE2-M-Hauzan-F/Basic-Programming-Part6)
   
 📘 Algorithm and Data Structure
 - Algo-DS-Part1
